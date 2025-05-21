@@ -1,3 +1,3 @@
 Index:
 
-getHTML will get html from webpage url.
+getHTML.py will get html from webpage url.
