@@ -1,6 +1,10 @@
 Script to get html from webpage.
 
-enter url in the main function.
+Enter url in the main function:
 
+def main():
+    #website url
+    url = "https://google.com"
+    html_content = get_html_content(url)
 
-Feel free to modify to yuor liking
+This does not include getting specific html tags. This will juat pull general HTML.
